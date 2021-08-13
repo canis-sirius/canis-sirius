@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently contributing to open source projects and looking for opportunities in blockchain industry.
 - 🌱 I’m currently learning core blockchain technologies.
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with `Rust`
 - 📫 How to reach me: davidtruong.dev@gmail.com
 - 😄 Pronouns: He/him
 
